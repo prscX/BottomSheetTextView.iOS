@@ -1,0 +1,27 @@
+{
+  "name": "PXBottomSheetTextView",
+  "version": "0.1.0",
+  "summary": "A short description of PXBottomSheetTextView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/acct<blob>=<NULL>/PXBottomSheetTextView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "acct<blob>=<NULL>": "pranav.chauhan@metricstream.com"
+  },
+  "source": {
+    "git": "https://github.com/acct<blob>=<NULL>/PXBottomSheetTextView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PXBottomSheetTextView/Classes/**/*",
+  "dependencies": {
+    "CNPPopupController": [
+      "0.3.3"
+    ]
+  }
+}

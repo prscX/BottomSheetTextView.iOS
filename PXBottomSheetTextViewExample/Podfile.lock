@@ -1,0 +1,23 @@
+PODS:
+  - CNPPopupController (0.3.3)
+  - PXBottomSheetTextView (0.1.0):
+    - CNPPopupController (= 0.3.3)
+
+DEPENDENCIES:
+  - PXBottomSheetTextView (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - CNPPopupController
+
+EXTERNAL SOURCES:
+  PXBottomSheetTextView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CNPPopupController: 59b06290762f68beab5fb0bbfa87eb4dcbefb7de
+  PXBottomSheetTextView: 2631a3e1786cc34464e43116522a86f6fde6db76
+
+PODFILE CHECKSUM: f8c6fd54bbff85812e1cf27ca42e9281aa575c1e
+
+COCOAPODS: 1.5.3
